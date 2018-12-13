@@ -1,7 +1,7 @@
 # lothian-bus-homeassistant
 home assistant sensor for lothian buses
 
-i recommend you don't use this yet -- it's working (just)
+i recommend you don't use this yet -- it's working (just) and was pretty much just cobbled together. it can be heavily improved but it works for me and may work for you with some adjustments.
 
 <p align="center"><img src="https://blog.codinghorror.com/content/images/uploads/2007/03/6a0120a85dcdae970b0128776ff992970c-pi.png"/></p>
 
